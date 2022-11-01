@@ -60,7 +60,7 @@ play(){
                          
             fill("red");
             textSize(30);
-            text(allPlayers[plr].name,x,y)
+            text(allPlayers[plr].name,x-40,y+30)
                          // add code to display the player name on the respective basket
             }
                     
